@@ -1,6 +1,6 @@
 # Coffee Delivery
 
-![alt text](https://github.com/marciocamello/coffe-delivery/blob/main/capa.png)
+![alt text](https://github.com/marciocamello/coffee-delivery/blob/main/capa.png)
 
 ---
 
